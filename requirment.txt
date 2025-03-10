@@ -1,0 +1,7 @@
+these are the dependencies you need : 
+
+streamlit
+requests
+numpy
+yfinance
+google-auth
