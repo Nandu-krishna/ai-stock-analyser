@@ -1,0 +1,23 @@
+📈 Stock Analysis & AI Investment Advisor 💡
+This project is a Streamlit-powered investment dashboard that helps users analyze stock data and receive AI-generated investment insights — all in one clean, interactive interface.
+
+🚀 Features:
+🔍 Real-time stock price fetching (Indian & global) using Yahoo Finance and Alpha Vantage APIs.
+
+📊 Volatility (risk) and expected return analysis using historical data.
+
+📁 Portfolio-level insights, including Sharpe ratio calculations.
+
+🤖 AI-driven investment suggestions via Google Gemini API, tailored to user portfolio characteristics.
+
+🧠 Custom AI Q&A: Ask your own finance questions and get intelligent responses.
+
+⚙️ Tech Stack:
+Python (Streamlit, NumPy, Requests)
+
+APIs: Alpha Vantage, Yahoo Finance, Google Gemini
+
+Deployed as a responsive web app with rich UX styling
+
+⚠️ Disclaimer: This tool is for educational and informational purposes only. Not financial advice.
+
